@@ -8,6 +8,8 @@
 - [Intro to Programming](https://www.kaggle.com/learn/certification/abrahamlopez10/intro-to-programming)
 - [Python](https://www.kaggle.com/learn/certification/abrahamlopez10/python)
 - [Intro to Machine Learning](https://www.kaggle.com/learn/certification/abrahamlopez10/intro-to-machine-learning)
+- [Pandas](https://www.kaggle.com/learn/certification/abrahamlopez10/pandas)
+- [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/abrahamlopez10/intermediate-machine-learning)
 
 ### IBM (CognitiveClass)
 - [Python 101 for Data Science](https://courses.cognitiveclass.ai/certificates/691c6a747f3e4079a81f60113c1e6edb)
