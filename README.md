@@ -16,3 +16,8 @@
 
 ### IBM (CognitiveClass)
 - [Python 101 for Data Science](https://courses.cognitiveclass.ai/certificates/691c6a747f3e4079a81f60113c1e6edb)
+
+## Tareas
+- [Regresion Lineal](#regresionlineal)
+- [Regresion Lineal Múltiple](#regresionlinealmultiple)
+- [Regresion Logística](#regresionlogistica)
