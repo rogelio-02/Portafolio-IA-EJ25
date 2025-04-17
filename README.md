@@ -14,6 +14,9 @@
 - [Intro to SQL](https://www.kaggle.com/learn/certification/abrahamlopez10/intro-to-sql)
 - [Advanced SQL](https://www.kaggle.com/learn/certification/abrahamlopez10/advanced-sql)
 - [Intro to Deep Learning](https://www.kaggle.com/learn/certification/abrahamlopez10/intro-to-deep-learning)
+- [Computer Vision](https://www.kaggle.com/learn/certification/abrahamlopez10/computer-vision)
+- [Time Series](https://www.kaggle.com/learn/certification/abrahamlopez10/time-series)
+- [Data Cleaning](https://www.kaggle.com/learn/certification/abrahamlopez10/data-cleaning)
 
 ### IBM (CognitiveClass)
 - [Python 101 for Data Science](https://courses.cognitiveclass.ai/certificates/691c6a747f3e4079a81f60113c1e6edb)
