@@ -19,6 +19,9 @@
 - [Data Cleaning](https://www.kaggle.com/learn/certification/abrahamlopez10/data-cleaning)
 - [Intro to AI Ethics](https://www.kaggle.com/learn/certification/abrahamlopez10/intro-to-ai-ethics)
 - [Geospatial Analysis](https://www.kaggle.com/learn/certification/abrahamlopez10/geospatial-analysis)
+- [Machine Learning Explainability](https://www.kaggle.com/learn/certification/abrahamlopez10/machine-learning-explainability)
+- [Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/certification/abrahamlopez10/intro-to-game-ai-and-reinforcement-learning)
+
 
 
 
